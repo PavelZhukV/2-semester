@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  Work1.cpp
+  dllmain.cpp
+  Generating Code...
+c:\users\паша\source\repos\zhuk.2018.2s.1\work1\work1.cpp(22): error C4716: 'isBadNumber': must return a value
+c:\users\паша\source\repos\zhuk.2018.2s.1\work1\work1.cpp(27): error C4716: 'firstHexSymbol': must return a value
