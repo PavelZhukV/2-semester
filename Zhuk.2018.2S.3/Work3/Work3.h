@@ -12,4 +12,5 @@ namespace Work3
 	WORK3LIBRARY_API void initRandMatrix(int** matrix, int n);
 	WORK3LIBRARY_API int maxElement(int** matrix, int a, int b, int n);
 	WORK3LIBRARY_API int** task8(int** matrix, int n);
+	WORK3LIBRARY_API void swap(int& a, int& b);
 }

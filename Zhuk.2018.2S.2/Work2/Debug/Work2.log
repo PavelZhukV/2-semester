@@ -1,3 +1,7 @@
-﻿  Work2.cpp
+﻿  stdafx.cpp
+  Work2.cpp
 c:\users\паша\source\repos\zhuk.2018.2s.2\work2\work2.cpp(64): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  dllmain.cpp
+  Generating Code...
+     Creating library C:\Users\╧р°р\source\repos\Zhuk.2018.2S.2\Debug\Work2.lib and object C:\Users\╧р°р\source\repos\Zhuk.2018.2S.2\Debug\Work2.exp
   Work2.vcxproj -> C:\Users\Паша\source\repos\Zhuk.2018.2S.2\Debug\Work2.dll
