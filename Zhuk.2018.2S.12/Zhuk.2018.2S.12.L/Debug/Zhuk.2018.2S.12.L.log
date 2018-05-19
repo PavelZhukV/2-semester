@@ -1,0 +1,5 @@
+﻿  Books.cpp
+c:\users\паша\source\repos\zhuk.2018.2s.12.l\zhuk.2018.2s.12.l\books.cpp(115): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Source.cpp
+c:\users\паша\source\repos\zhuk.2018.2s.12.l\zhuk.2018.2s.12.l\source.cpp(247): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Generating Code...
