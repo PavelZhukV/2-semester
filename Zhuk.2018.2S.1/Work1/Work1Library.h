@@ -23,4 +23,6 @@ namespace Work1
 	WORK1LIBRARY_API int badSymbol(char symbol);
 
 	WORK1LIBRARY_API void deleteEqualElements(int array[], int & n);
+
+	WORK1LIBRARY_API void deleteInNewArray(int array[], int & n, char a, int narray[], int & k);
 }

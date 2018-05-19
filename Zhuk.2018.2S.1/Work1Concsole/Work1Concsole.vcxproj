@@ -24,7 +24,6 @@
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>Work1Concsole</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
-    <ProjectName>Work2Concsole</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -155,7 +154,7 @@
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Create</PrecompiledHeader>
     </ClCompile>
-    <ClCompile Include="Work2Concsole.cpp" />
+    <ClCompile Include="Work1Concsole.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\UnitTest1\UnitTest1.vcxproj">
