@@ -1,4 +1,3 @@
 ﻿  stdafx.cpp
   unittest1.cpp
-     Creating library C:\Users\Паша\source\repos\Zhuk.2018.2S.1\Debug\UnitTest1.lib and object C:\Users\Паша\source\repos\Zhuk.2018.2S.1\Debug\UnitTest1.exp
-  UnitTest1.vcxproj -> C:\Users\Паша\source\repos\Zhuk.2018.2S.1\Debug\UnitTest1.dll
+d:\рабочий стол\zhuk.2018.2s.1\unittest1\unittest1.cpp(3): fatal error C1083: Cannot open include file: 'Work1Library.h': No such file or directory
